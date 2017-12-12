@@ -6,5 +6,5 @@ Next stages will be updated soon.
 
 ## The look of the current version ->
 
-<img src="https://user-images.githubusercontent.com/34253338/33807040-c3b3f65c-ddc8-11e7-9903-e85a16b6c221.jpg" width="281" height="561">
+<img src="https://user-images.githubusercontent.com/34253338/33891010-a83c3f76-df4c-11e7-8f18-f297a3b486ba.jpg">
 
